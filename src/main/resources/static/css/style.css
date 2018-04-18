@@ -1,0 +1,26 @@
+h1
+{
+    color:#ff3399;
+    font-size:150%;
+    font-family:"Lucida Sans";
+}
+
+body{
+    background: black;
+    color:white;
+}
+
+.jumbotron p{
+    color:black;
+}
+
+img
+{
+    height:100px;
+    align-content: center;
+}
+
+.wraptext
+{
+    float:left;
+}
